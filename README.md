@@ -57,4 +57,3 @@ En swagger deberiamos de poner esta ruta en nuestro navegador para visualizar lo
 
 * JavaScript
 
-* Postman
